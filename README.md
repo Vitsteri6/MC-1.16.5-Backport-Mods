@@ -51,6 +51,8 @@ A: Tell me about it in the Discussions section.
 
 - Simple Bamboo Blocks: https://www.curseforge.com/minecraft/mc-mods/simple-bamboo-blocks (Forge)
 
+- Wolf Port: https://www.curseforge.com/minecraft/mc-mods/wolf-port (Fabric)
+
 
 # 1.19x
 
