@@ -49,7 +49,7 @@ A: Because I just really like 1.16.5. And I felt like making this repo.
 
 - Unofficial Wild Update Recreation: https://www.curseforge.com/minecraft/mc-mods/unofficial-1-19-wild-update-1-16 (Forge)
 
-- Better Armor Swap: https://modrinth.com/mod/better-armor-swap
+- Better Armor Swap: https://modrinth.com/mod/better-armor-swap (Fabric)
 
 
 # 1.18x & 1.17x
