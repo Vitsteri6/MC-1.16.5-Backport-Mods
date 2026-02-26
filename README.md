@@ -57,5 +57,5 @@ A: Because I just really like 1.16.5. And I felt like making this repo.
 
 - CavesAndCliffsBackport: https://www.curseforge.com/minecraft/mc-mods/vanillabackport (Forge)
 
-- Farmable Shulkers: https://modrinth.com/mod/farmable-shulkers
+- Farmable Shulkers: https://modrinth.com/mod/farmable-shulkers (Fabric)
 
