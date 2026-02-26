@@ -4,6 +4,10 @@ Q; Why was this repository made?
 
 A: Because I just really like 1.16.5. And I felt like making this repo.
 
+Q: I found a mod I think should be added to this repository!
+
+A: Great! Tell me about it in the Discussions section in General so that I can add it.
+
 # 1.21x
 
 
