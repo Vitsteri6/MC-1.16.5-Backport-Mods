@@ -8,6 +8,10 @@ Q: I found a mod I think should be added to this repository!
 
 A: Great! Tell me about it in the Discussions section in General so that I can add it.
 
+Q: I have a suggestion related to this repository.
+
+A: Tell me about it in the Discussions section.
+
 # 1.21x
 
 
